@@ -5,11 +5,12 @@
 }
 
 
-#header-img{
-    
-    height: auto;
-    max-width: 100%;
-
+image
+{
+  padding:10px;
+  background-color:white;
+  width:200px;
+  lenght:300px;
 }
 
 #header
@@ -19,13 +20,25 @@
 
 
 
-.nav-link{
+/*.nav-link{
     display: flex;
     color: aquamarine;
     font-size: medium;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
-}
+}*/
+
+#nav-bar {
+    display:flex;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #cc0000;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    padding: 1px;
+  }
 
 h1{
 color: blueviolet;
@@ -33,6 +46,7 @@ text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-input{
-    display: block;
+p{
+    color:blue;
+    background-color:white;
 }
