@@ -4,9 +4,9 @@
     }
 }
 
-#nav-bar
+#header
 {
-    position:fixed;
+    position: fixed;
 }
 
 .nav-link{
