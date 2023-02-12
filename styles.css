@@ -1,0 +1,45 @@
+@media screen and (max-width: 400px){
+   body {
+        background-color: chocolate;
+    }
+}
+
+
+
+#header
+{
+    display:flex;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #cc0000;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    padding: 1px;
+    
+}
+
+
+
+.nav-link{
+    display: flex;
+    color: aquamarine;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+h2{
+    margin-top: 100px;
+color: blueviolet;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    color:blue;
+    background-color:white;
+    margin: 0.5px;
+}
