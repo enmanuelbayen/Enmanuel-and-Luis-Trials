@@ -1,4 +1,14 @@
+@media screen and (max-width: 400px){
+    body{
+        background-color: chocolate;
+    }
+}
+
 #nav-bar
 {
     position:fixed;
+}
+
+.nav-link{
+    display: flex;
 }
