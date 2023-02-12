@@ -10,7 +10,7 @@ image
   padding:10px;
   background-color:white;
   width:200px;
-  lenght:300px;
+  height:300px;
 }
 
 #header
@@ -49,4 +49,5 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 p{
     color:blue;
     background-color:white;
+    margin: 0.5px;
 }
